@@ -1,2 +1,6 @@
-# ai-chatbot-test
-A simple rule-based chatbot in Python
+\# AI Chatbot
+
+Simple rule-based chatbot in Python. Run with `python chatbot.py`.
+
+
+
